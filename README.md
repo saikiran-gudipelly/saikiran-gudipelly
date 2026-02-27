@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saikiran Gudipelly
 
-## 💻 Backend-Focused Full Stack Developer
+## 💻 Full Stack Developer
 
 🚀 Currently working at a startup, building scalable Spring Boot applications.  
 🧠 Strong in **Java, Spring Boot, MongoDB, and REST APIs**.  
