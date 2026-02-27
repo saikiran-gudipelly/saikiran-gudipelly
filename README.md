@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @saikiran-gudipelly
-- 👀 I’m interested in Full stack development using java
-- 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on Initialize a New Project
-
-<!---
-saikiran-gudipelly/saikiran-gudipelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Saikiran Gudipelly
+💻 Backend-focused Full Stack Developer
+🚀 Currently working at a startup, building scalable Spring Boot applications
+🧠 Strong in Java, Spring Boot, MongoDB, REST APIs
+⚛️ Familiar with React for frontend integration
+📚 Continuously improving system design and clean architecture skills
+🤝 Open to collaborating on backend-focused or full stack projects
